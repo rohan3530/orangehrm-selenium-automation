@@ -1,0 +1,4 @@
+Username	Password	ExpectedResult
+Admin	admin123	PASS
+Admin	wrongPass	FAIL
+wrong	admin123	FAIL
